@@ -1,0 +1,3 @@
+export const GET_LEADERBOARD = 'GET_LEADERBOARD';
+export const SET_USER = 'SET_USER';
+export const TOGGLE_DECK_SELECTED = 'TOGGLE_DECK_SELECTED';
