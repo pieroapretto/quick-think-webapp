@@ -1,9 +1,7 @@
-import React from 'react';
-
 export default function GamePage() {
     return (
-        <div>
-            
-        </div>
+        <h1>
+            Game
+        </h1>
     )
 }
